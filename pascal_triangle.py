@@ -14,7 +14,7 @@ def pascal(n):
 
         for j in new:
             print(j,end=" ")
-            
+
     print()
     return new
 
